@@ -7,7 +7,7 @@ Todos os dias, você vai ter que codar pelo menos 1h!
 ## Day 1  
 Crie um repositório para listar os projetos que serão desenvolvidos durante os dias de código.
 
-## Day 2
+## [Day 2](https://github.com/vivianemartini/21daysofcode/tree/main/day2)
 Criar um Hello Wolrd do customizado com fontes, cores e imagens. 
 
 ## Day 3
