@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: #e3ebfe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+button {
+    width: 270px;
+    height: 80px;
+    border: 0;
+    outline: none;
+    background: #121214;
+    color: #fff;
+    font-size: 22px;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.check-box {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    box-shadow: 0 0 12px -2px rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    right: -40px;
+    opacity: 0;
+}
+
+.check-box svg {
+    width: 40px;
+    margin: 20px;
+}
+
+svg path {
+    stroke-width: 5;
+    stroke: #04D355;
+    stroke-dasharray: 34;
+    stroke-dashoffset: 34;
+    stroke-linecap: round;
+}
+
+.active {
+    background: #8257E5;
+    transition: 1s;
+}
+
+.active .check-box {
+    right: 0;
+    opacity: 1;
+    transition: 1s;
+}
+
+.active p {
+    margin-right: 125px;
+    transition: 1s;
+}
+
+.active svg path {
+    stroke-dashoffset: 0;
+    transition: 1s;
+    transition-delay: 1s;
+}
