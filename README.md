@@ -13,6 +13,9 @@ Criar um Hello Wolrd do customizado com fontes, cores e imagens.
 ## Day 3
 Criar um botão animado.
 
+## Day 4
+Crie uma calculadora.
+
 ## Rodando projetos localmente
 
 Clone o projeto
