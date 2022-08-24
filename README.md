@@ -16,6 +16,9 @@ Criar um botão animado.
 ## Day 4
 Crie uma calculadora.
 
+## Day 5
+Criar uma página customizada para exibir o erro 404.
+
 ## Rodando projetos localmente
 
 Clone o projeto
