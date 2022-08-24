@@ -19,6 +19,9 @@ Crie uma calculadora.
 ## Day 5
 Criar uma página customizada para exibir o erro 404.
 
+## Day 6
+Criar um card com o efeito glassmorphism.
+
 ## Rodando projetos localmente
 
 Clone o projeto
