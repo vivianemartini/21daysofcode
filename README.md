@@ -28,6 +28,9 @@ Desenvolva um contador.
 ## [Day 8](https://github.com/vivianemartini/21daysofcode/issues/8#issue-1359300324)
 Desenvolva um toggle que altere o tema para claro e escuro.
 
+## Day 9
+Crie uma animação de loading.
+
 ## Rodando projetos localmente
 
 Clone o projeto
