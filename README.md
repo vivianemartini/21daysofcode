@@ -25,6 +25,9 @@ Criar um card com o efeito glassmorphism.
 ## Day 7
 Desenvolva um contador.
 
+## [Day 8](https://github.com/vivianemartini/21daysofcode/issues/8#issue-1359300324)
+Desenvolva um toggle que altere o tema para claro e escuro.
+
 ## Rodando projetos localmente
 
 Clone o projeto
