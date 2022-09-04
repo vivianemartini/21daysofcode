@@ -31,6 +31,9 @@ Desenvolva um toggle que altere o tema para claro e escuro.
 ## Day 9
 Crie uma animação de loading.
 
+## Day 10
+Utilize a lib Participle.js do JavaScript
+
 ## Rodando projetos localmente
 
 Clone o projeto
