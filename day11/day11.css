@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #09090A;
+}
+
+.form-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #5F42A0;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background: #202024;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
+
+.input__container {
+    padding: 10px 10px;
+    width: 250px;
+    border-radius: 10px;
+    border: 3px solid #5F42A0;
+}
+
+.input__container i {
+    font-size: 14px;
+    color: #5F42A0;
+}
+
+.input__container input {
+    border: none;
+    outline: none;
+    background: #202024;
+    color: #fff;
+}
+
+.btn {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    padding: 10px 10px;
+    width: 250px;
+    border-radius: 10px;
+    background: #35E8B3;
+    color: #5F42A0;
+    border: 3px solid #5F42A0;
+    cursor: pointer;
+}
+
+.btn:hover {
+    color: #35E8B3;
+    background: #5F42A0;
+}
+
+.reminder__box {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -15px;
+}
+
+.remember__cont {
+    display: flex;
+    gap: 5px;
+}
+
+.remember__cont input {
+    border: none;
+    cursor: pointer;
+}
+
+.remember {
+    color: #fff;
+    font-size: 12px;
+}
+
+.reminder__box p a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #35E8B3;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.reminder__box p a:hover {
+    border-bottom: 2px solid #35E8B3;
+}

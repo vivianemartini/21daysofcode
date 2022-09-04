@@ -34,6 +34,9 @@ Crie uma animação de loading.
 ## Day 10
 Utilize a lib Participle.js do JavaScript
 
+## Day 11
+Crie um layout de um formulário de login.
+
 ## Rodando projetos localmente
 
 Clone o projeto
