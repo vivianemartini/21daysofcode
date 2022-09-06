@@ -37,6 +37,9 @@ Utilize a lib Participle.js do JavaScript
 ## Day 11
 Crie um layout de um formulário de login.
 
+## Day 12
+Desenvolva uma galeria de imagem.
+
 ## Rodando projetos localmente
 
 Clone o projeto
