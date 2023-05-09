@@ -51,7 +51,7 @@ Clone o projeto
 Entre no diretório dos projetos
 
 ```bash
-  cd <projeto>
+  cd projeto
 ```
 
 ```bash
